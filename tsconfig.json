@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "outDir": "build/dist",
+        "allowJs": true,
+        "module": "esnext",
+        "target": "es6",
+        "lib": ["es6", "dom", "es2018.promise", "dom.Iterable"],      
+        "sourceMap": true,
+        "jsx": "react",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "resolveJsonModule": true
+    },
+    "include": [
+        "./"
+    ],
+  }
+  
