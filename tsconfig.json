@@ -12,7 +12,8 @@
         "resolveJsonModule": true
     },
     "include": [
-        "./"
+        "src/**/*",
+        "custom.d.ts" 
     ],
   }
   

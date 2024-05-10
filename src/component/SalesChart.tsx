@@ -66,7 +66,6 @@ const SalesChart: React.FC = () => {
     }, {
       title: {
         text: 'Retailer Margin',
-        opposite: true
       }
     }],
     series: [{
